@@ -23,7 +23,7 @@
 <a href="https://instagram.com/devanshusharma829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshusharma829" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/devanshu_shar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshu_shar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Poor-Guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu-sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanshu-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshu-sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devanshu_shar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshu-sharma" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devanshu_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshu_sharma" height="30" width="40" /></a>
 </p>
 
